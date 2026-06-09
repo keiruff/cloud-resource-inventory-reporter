@@ -173,6 +173,9 @@ https://github.com/keiruff
 LinkedIn:
 https://www.linkedin.com/company/civicspan-it-group
 
+ORCID:
+https://orcid.org/0009-0003-4380-2281
+
 ---
 
 ## License
